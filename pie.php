@@ -24,7 +24,7 @@
     <script src="<?php echo BASE_URL ?>lib/themes/js/jquery.flot.pie.min.js"></script>
     <script src="<?php echo BASE_URL ?>lib/themes/js/jquery.flot.resize.min.js"></script>
 
-    <!--w8 scripts-->
+    <!--w8 scripts asdasdasdasdkaskadskdakdaskadsdkasdkasas-->
 
     <script src="<?php echo BASE_URL ?>lib/themes/js/w8-elements.min.js"></script>
     <script src="<?php echo BASE_URL ?>lib/themes/js/w8.min.js"></script>
